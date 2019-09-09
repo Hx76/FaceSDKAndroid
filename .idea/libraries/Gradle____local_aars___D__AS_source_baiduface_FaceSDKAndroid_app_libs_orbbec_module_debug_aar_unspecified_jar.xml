@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:D.\AS_source\baiduface\FaceSDKAndroid\app\libs\orbbec_module-debug.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/orbbec_module-debug.aar/d50e304807468193d2ffaaa5cc23b324/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/orbbec_module-debug.aar/d50e304807468193d2ffaaa5cc23b324/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/orbbec_module-debug.aar/d50e304807468193d2ffaaa5cc23b324/jars/libs/openni2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
